@@ -75,3 +75,29 @@ footer {
   background-color: #e5e7eb;
   font-size: 14px;
 }
+/* Dark mode */
+body.dark {
+  background-color: #111827;
+  color: #e5e7eb;
+}
+
+body.dark header {
+  background-color: #020617;
+}
+
+body.dark section h2 {
+  color: #e5e7eb;
+}
+
+body.dark footer {
+  background-color: #020617;
+  color: #9ca3af;
+}
+
+#theme-toggle {
+  margin-top: 10px;
+  padding: 6px 10px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
