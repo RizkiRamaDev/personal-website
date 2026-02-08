@@ -100,4 +100,20 @@ body.dark footer {
   font-size: 12px;
   cursor: pointer;
 }
+/* Responsive */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  header {
+    text-align: center;
+  }
+
+  main {
+    margin: 20px auto;
+  }
+}
+
 
