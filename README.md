@@ -8,3 +8,7 @@ Website personal untuk membangun personal branding sekaligus mengasah skill prog
 
 ## Status
 🚧 Dalam pengembangan
+
+## Live Website
+🔗 https://rizkiramadev.github.io/personal-website/
+
